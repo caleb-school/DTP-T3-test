@@ -15,6 +15,20 @@ if userinput == 2:
     print(f"Your current balance is: ${balance}")
     input("How much money would you like to withdraw: ")
 
+if userinput == 3:
+    print()
 
-while active == True:
+if userinput == 4:
+    print()
 
+def withdraw(): 
+
+
+
+
+
+
+
+
+#while active == True:
+#   print() 
